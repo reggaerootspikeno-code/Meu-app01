@@ -1,0 +1,15 @@
+name: cashback_app
+description: Cashback app com AdMob integrado
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_mobile_ads: ^3.0.0
+
+flutter:
+  uses-material-design: true

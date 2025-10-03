@@ -1,2 +1,3 @@
-# Meu-app01
-App de cash bank local 
+# Cashback App
+
+Projeto Flutter mínimo com AdMob - pronto para build em CI (Codemagic).
